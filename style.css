@@ -1,0 +1,14 @@
+@font-face {
+    font-family: 'Cursiva';
+    src: url('./fonts/Cursiva.otf');
+}
+
+h1 {
+    font-family: 'Cursiva', sans-serif;
+    font-weight: 700;
+}
+
+p {
+    font-family: 'Cursiva', sans-serif;
+    font-weight: 400;
+}
